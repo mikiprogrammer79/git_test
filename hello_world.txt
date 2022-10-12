@@ -1,2 +1,2 @@
 This is a text file created to test the git status
-Just trying atomic commit, "git commit" without -m "message"
+Version 2 Just trying atomic commit, "git commit" without -m message 
